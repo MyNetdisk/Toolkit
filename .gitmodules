@@ -1,0 +1,3 @@
+[submodule "react-native-kit"]
+	path = react-native-kit
+	url = git@github.com:MyNetdisk/react-native-kit.git
